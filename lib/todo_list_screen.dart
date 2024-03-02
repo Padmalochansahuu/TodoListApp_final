@@ -12,7 +12,7 @@ class ToDoListScreen extends StatefulWidget {
 }
 
 class _ToDoListScreenState extends State<ToDoListScreen> {
-  List<Task> tasks = []; // List to hold tasks
+  List<Task> tasks = []; 
 
   @override
   Widget build(BuildContext context) {
